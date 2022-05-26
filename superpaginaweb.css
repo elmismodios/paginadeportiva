@@ -1,0 +1,25 @@
+
+body{
+	text-align: center;
+}
+body{
+	background-color: skyblue;
+}
+p{
+	font-style: oblique;
+}
+p{
+	color: red; 3px solid;
+}
+h1{
+	font-style: italic;
+}
+h1{
+	color: black;
+}
+h2{
+	color: black;
+}
+embed{
+	color: black;
+}
